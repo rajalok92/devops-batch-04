@@ -16,3 +16,4 @@ git push
 git fetch
 git remote -v
 added commands for Pull
+added again pull command
