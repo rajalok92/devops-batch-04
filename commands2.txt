@@ -16,3 +16,4 @@ git pull origin main
 git push
 git fetch
 git remote -v
+Adding new commands
