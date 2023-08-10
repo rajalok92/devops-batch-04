@@ -15,4 +15,6 @@ git pull origin main
 git push
 git fetch
 git remote -v
+git remote --push origin \\url
+
 
