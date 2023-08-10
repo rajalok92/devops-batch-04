@@ -1,11 +1,6 @@
 git init
 git status
 git add
-git commit -m
-git log
-git rm file name
-git restore
-git log --online
 git log --online --pretty
 git config --global user name
 git config --global user email
