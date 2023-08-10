@@ -11,7 +11,6 @@ git config --global user name
 git config --global user email
 git checkout -b dev
 git clone //url from github
-
 git pull origin main
 git push
 git fetch
